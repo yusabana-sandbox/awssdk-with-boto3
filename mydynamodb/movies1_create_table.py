@@ -4,7 +4,6 @@ import boto3
 dynamodb = boto3.resource('dynamodb')
 # dynamodb = boto3.resource('dynamodb', region_name='ap-northeast-1', endpoint_url='http://localhost:4569')
 
-
 table = dynamodb.create_table(
     TableName='Movies',
     KeySchema=[
