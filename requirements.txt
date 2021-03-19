@@ -6,7 +6,7 @@ datadiff==2.0.0
 docutils==0.13.1
 future==0.16.0
 idna==2.5
-Jinja2==2.8.1
+Jinja2==2.11.3
 jmespath==0.9.3
 lamvery==0.18.2
 MarkupSafe==1.0
