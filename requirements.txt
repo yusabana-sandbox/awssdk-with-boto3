@@ -13,7 +13,7 @@ MarkupSafe==1.0
 parsedatetime==2.4
 Pygments==2.2.0
 python-dateutil==2.6.1
-PyYAML==3.12
+PyYAML==5.4
 requests==2.18.1
 s3transfer==0.1.10
 simplejson==3.11.1
